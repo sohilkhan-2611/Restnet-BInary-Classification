@@ -47,7 +47,7 @@ This project transforms the traditional 10-class MNIST digit classification prob
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/sohilkhan-2611/restnet_binary_classification.git
+git clone https://github.com/sohilkhan-2611/Restnet-BInary-Classification.git
 cd mnist-even-odd-classifier
 ```
 
